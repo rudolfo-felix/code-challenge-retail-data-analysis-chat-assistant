@@ -2,7 +2,7 @@
 
 **Candidate:** Eng. Rudolfo Valentino Marques Félix  
 **Position:** AI Engineer (Opsfleet)  
-**Repository:** [github.com/rudolfo-felix/opsfleet-rudolfo-felix](https://github.com/rudolfo-felix/opsfleet-rudolfo-felix)  
+**Repository:** [github.com/rudolfo-felix/retail-data-analysis-chat-assistant](https://github.com/rudolfo-felix/retail-data-analysis-chat-assistant)  
 **Slack Channel:** `#t-ai-rudolfo-félix`  
 **Production High-Level Design (HLD):** [docs/HLD.md](docs/HLD.md)  
 **Delivery Backlog:** [tickets/README.md](tickets/README.md) (All 12 Tickets OPS-000 to OPS-011 Completed)
@@ -15,7 +15,7 @@ This repository is strictly engineered to satisfy the **2-Minute Clone-and-Run E
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/rudolfo-felix/opsfleet-rudolfo-felix.git
+git clone https://github.com/rudolfo-felix/retail-data-analysis-chat-assistant.git
 cd opsfleet-rudolfo-felix
 
 # 2. Setup Python 3.11 virtual environment & install package
